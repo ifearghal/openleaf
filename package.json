@@ -1,0 +1,14 @@
+{
+  "name": "samwise-pastebin",
+  "version": "1.0.0",
+  "description": "Minimal self-hosted pastebin — Node.js only, no dependencies",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Samwise (Clawdbot) for ShireWorks",
+  "license": "MIT"
+}

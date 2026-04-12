@@ -1,0 +1,9 @@
+# Pastes (transient storage — not tracked)
+/tmp/pastes/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
