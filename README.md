@@ -39,7 +39,7 @@ Opens at `http://localhost:8445`
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `PORT` | `8445` | Listen port |
-| `PASTES` | `/tmp/pastes` | Storage directory |
+| `PASTES` | `/tmp/pastes` | Storage directory (intentionally ephemeral — survives restarts but cleared on reboot) |
 
 ## Production Use
 
